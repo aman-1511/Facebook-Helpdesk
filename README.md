@@ -20,17 +20,17 @@ Facebook Helpdesk enables businesses to efficiently handle customer support thro
 ## Screenshots
 
 ### Login Screen
-![Image](https://github.com/user-attachments/assets/a0c2bce2-60c1-4a48-ac15-0c87af25c9d3)
+![Image](https://github.com/user-attachments/assets/3f1481f2-f37e-42ca-a4c4-348c1cd8d83f)
 
 ### Registration Screen
-![Image](https://github.com/user-attachments/assets/45324233-35aa-464f-b851-ba3acb5aae70)
+![Image](https://github.com/user-attachments/assets/cd852f71-861a-4c06-8f17-6237a3a737ae)
 
 ### Facebook Page Connection
-![Image](https://github.com/user-attachments/assets/b5ea6091-e17a-48dc-9ff9-dd34f88b5d79)
+![Image](https://github.com/user-attachments/assets/51ae9473-5210-43c5-8709-01f1c475ef05)
 
 
 ### Conversation Interface
-![Image](https://github.com/user-attachments/assets/7261d228-6a84-44e1-962a-51d758e39dfa)
+![Image](https://github.com/user-attachments/assets/1eaaff60-a922-4571-aeb0-f99f85537fa9)
 
 ## Tech Stack
 
